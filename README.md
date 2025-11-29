@@ -1,4 +1,5 @@
 Project Overview
+
 This repository documents the creation of a Security Information and Event Management (SIEM) pipeline using the ElK stack to ingest, parse, and analyze macOS system logs. The project's main objective was to transform raw, unstructured log data from a 5-minute time-boxed snapshot into actionable security intelligence. The implementation successfully established a system baseline and produced dashboards capable of detecting immediate anomalies, access failures, and program execution events on the mac host.
 
 Project Relevance
